@@ -5,15 +5,13 @@
      body{
         background-color: black;
         color: white;
+    
+     }
+     .khan{
+        border-radius:%;
      }
      
-     /* Add some basic styles */
-body {
-    font-family: Arial, sans-serif;
-}
-h1 {
-    text-align: center;
-}
+
 /* Rounded image */
 img.rounded {
     border-radius: 50%;
@@ -23,4 +21,13 @@ img.rounded {
 /* Style the sections */
 section {
     margin-bottom: 20px;
+}
+.pic{
+    border-radius: 50;
+}
+.khan img {
+    display: flex;
+    text-align: center;
+ 
+    border-radius: 50%;
 }
