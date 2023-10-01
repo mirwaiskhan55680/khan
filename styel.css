@@ -1,0 +1,26 @@
+    h1,h2{
+    color: blue;
+    background-color: green;
+}
+     body{
+        background-color: black;
+        color: white;
+     }
+     
+     /* Add some basic styles */
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+/* Rounded image */
+img.rounded {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+/* Style the sections */
+section {
+    margin-bottom: 20px;
+}
